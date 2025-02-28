@@ -1,3 +1,6 @@
+## 🚀 About Me
+I'm a student in studying Hoc vien Ky thuat mat ma and learning Information Security
+
 - 👋 Hi, I’m @nna99d
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Information Security
