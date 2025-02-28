@@ -11,5 +11,4 @@ nna99d/nna99d is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ## 🔗 Links
-[![1](https://github.com/nna99d/secure_software_testing)
-[![2](https://github.com/nna99d/Giai_phap_SIEM-XDR_voi_Wazuh)
+
