@@ -1,7 +1,7 @@
 ## 🚀 About Me
 I'm a student in studying Hoc vien Ky thuat mat ma and learning Information Security
 
-- 👋 Hi, I’m @nna99d
+- 👋 Hi, I’m Ngoc Anh
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Information Security
 - 💞️ I’m looking to collaborate on IT developer
