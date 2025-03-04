@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<a href="https://github.com/nna99d/secure_software_testing">
+<a href="https://github.com/nna99d/secure_software_testin">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=secure_software_testing&theme=radical" />
 </a>    
-<a href="https://github.com/nna99d/software_vulnerability_exploitation">
+<a href="https://github.com/nna99d/software_vulnerability_exploitatio">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=software_vulnerability_exploitation&theme=merko" />
 </a>
 
-<a href="https://github.com/nna99d/Giai_phap_SIEM-XDR_voi_Wazuh">
+<a href="https://github.com/nna99d/Giai_phap_SIEM-XDR_voi_Wazu">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=Giai_phap_SIEM-XDR_voi_Wazuh&theme=gruvbox" />
 </a>  
