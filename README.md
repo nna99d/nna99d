@@ -6,8 +6,6 @@ I'm a student in studying Hoc vien Ky thuat mat ma and learning Information Secu
 - 🌱 I’m currently learning Information Security
 - 💞️ I’m looking to collaborate on IT developer
 - 📫 How to reach me nna99d@gmail.com
-- 😄 Pronouns: anh
-- ⚡ Fun fact: talk less do more
 
 <!---
 nna99d/nna99d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
