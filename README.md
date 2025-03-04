@@ -9,7 +9,7 @@
 
 <a href="https://github.com/nna99d/secure_software_testing">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=secure_software_testing&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=&theme=radical" />
 </a>    
 <a href="https://github.com/nna99d/software_vulnerability_exploitation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -22,7 +22,7 @@
 </a>  
 
 <h3 align="left">Connect with me: </h3>
-<span style="color: yellow;">nna@gmail.com</span>
+<!--<span style="color: yellow;">nna@gmail.com</span> -->
 <p align="left">
 </p>
 
