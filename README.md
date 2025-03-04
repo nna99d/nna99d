@@ -9,7 +9,7 @@
 
 <a href="https://github.com/nna99d/secure_software_testing">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=secure_software_testing&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=secure_software_testing&theme=radical" />
 </a>    
 <a href="https://github.com/nna99d/software_vulnerability_exploitation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -18,7 +18,7 @@
 
 <a href="https://github.com/nna99d/Giai_phap_SIEM-XDR_voi_Wazuh">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=Giai_phap_SIEM-XDR_voi_Wazuh&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=Giai_phap_SIEM-XDR_voi_Wazuh&theme=gruvbox" />
 </a>  
 
 <h3 align="left">Connect with me: </h3>
