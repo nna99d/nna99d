@@ -22,7 +22,7 @@
 </a>  
 
 <h3 align="left">Connect with me: </h3>
-<h4 style="color: blue; font-weight: bold; background-color: yellow; padding: 5px;">nna@gmail.com </h4>
+<span style="color: yellow;">nna@gmail.com</span>
 <p align="left">
 </p>
 
