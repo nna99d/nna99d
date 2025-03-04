@@ -21,7 +21,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=Giai_phap_SIEM-XDR_voi_Wazuh&theme=gruvbox" />
 </a>  
 
-<h3 align="left">Connect with me: nna99d@gmail.com</h3>
+<h3 align="left">Connect with me: </h3>
+<h4 style="color: blue; font-weight: bold; background-color: yellow; padding: 5px;">nna@gmail.com </h4>
 <p align="left">
 </p>
 
