@@ -7,7 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://github.com/nna99d/secure_software_testing">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=secure_software_testing&theme=radical" />
+</a>    
+<a href="software_vulnerability_exploitation">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=software_vulnerability_exploitation&theme=merko" />
+</a>
+
+<a href="https://github.com/nna99d/Giai_phap_SIEM-XDR_voi_Wazuh">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nna99d&repo=Giai_phap_SIEM-XDR_voi_Wazuh&theme=gruvbox" />
+</a>  
+
+<h3 align="left">Connect with me: nna99d@gmail.com</h3>
 <p align="left">
 </p>
 
