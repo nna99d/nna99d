@@ -34,7 +34,6 @@
 
 <h3 align="left">Connect with me: </h3>
 <span style="color: yellow;">nna99d@gmail.com</span>
-<span style="color: red;">ngocanhnguyen99.xyz@gmail.com</span>
 <p align="left">
 </p>
 
